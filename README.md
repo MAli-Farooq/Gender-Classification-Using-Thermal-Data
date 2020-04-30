@@ -10,8 +10,8 @@ This Repository contails all the fine-tuned pretrained and newly Proposed models
 3. To check the result of each pretrained models as well as GENNet model download all the models from the below provided link.
 Link: 
 
-4. Similary download the dataset for cross-validating all the models from the below provided link.
-Link: 
+4. Similary download the test dataset for cross-validating all the models from the below provided link.
+Link: https://drive.google.com/open?id=1B3fPjluBG8kwhe5w7fOvNS6PO8x0_zW2
  
 
 In case of any quries you can write email to me
