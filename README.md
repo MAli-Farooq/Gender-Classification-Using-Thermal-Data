@@ -18,6 +18,8 @@ Link: https://drive.google.com/open?id=1wGDNfCQE1kngsmYiKlKHHZwgntlVwiGJ
 
 6. To retrain the pretrained models and fine-tune the models on thermal data run Pretrained_Models_Retraining.iypnb and Thermal_Data_Transfer_learning_script scripts.
 
+7. One cycle learning policy script can be use during fine-tuning process.  
+
 In case of any quries you can write email to me
 
 m.farooq3@nuigalway.ie
