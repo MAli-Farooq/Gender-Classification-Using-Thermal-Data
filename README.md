@@ -1,4 +1,4 @@
-# Gender-Classification-Using-Thermal-Data
+# Gender-Classification-Using-Thermal-Face-Data
 Gender Classification Using Thermal Data  
 
 This Repository contails all the fine-tuned pretrained and newly Proposed models trained on tufts thermal dataset
