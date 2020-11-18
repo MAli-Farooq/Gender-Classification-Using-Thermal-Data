@@ -20,6 +20,12 @@ Link: https://drive.google.com/open?id=1wGDNfCQE1kngsmYiKlKHHZwgntlVwiGJ
 
 7. One cycle learning policy script can be use during fine-tuning process.  
 
+8. The paper is avaliable at http://dx.doi.org/10.1117/1.JEI.29.6.063004
+
+9. Please cite our paper 
+
+Muhammad Ali Farooq, Hossein Javidnia, Peter Corcoran, "Performance estimation of the state-of-the-art convolution neural networks for thermal images-based gender classification system," J. Electron. Imaging 29(6), 063004 (2020), doi: 10.1117/1.JEI.29.6.063004.
+
 In case of any quries you can write email to me
 
 m.farooq3@nuigalway.ie
