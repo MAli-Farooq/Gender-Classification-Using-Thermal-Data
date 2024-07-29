@@ -28,7 +28,7 @@ Muhammad Ali Farooq, Hossein Javidnia, Peter Corcoran, "Performance estimation o
 
 In case of any quries you can write email to me
 
-m.farooq3@nuigalway.ie
+muhammadali.farooq@universityofgalway.ie
 
 
 Note: Please install all the required packages to run the scripts
